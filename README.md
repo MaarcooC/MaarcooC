@@ -1,7 +1,7 @@
 # 🌎・ Hello world!
 
 ## 🧑・ About me:
-💻 Studying IT at school.
+💻 Studying IT at school. <br>
 🚀 Passionate about IT, motorsport and space.
 
 ## 🌐・ Socials:
