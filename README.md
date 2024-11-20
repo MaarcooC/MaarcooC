@@ -5,7 +5,7 @@
 - 🚀 Passionate about IT, motorsport and space.
 
 ## 🤝・ Public contributions:
-- ![TheAlgorithms](https://github.com/TheAlgorithms.png?size=20) [TheAlgorithms PHP](https://github.com/TheAlgorithms/PHP/pulls?q=is%3Apr+author%3A%40MaarcooC+is%3Aclosed) <br>
+- ![TheAlgorithms](https://github.com/TheAlgorithms.png?size=20) [TheAlgorithms PHP](https://github.com/TheAlgorithms/PHP/pulls?q=is%3Apr+is%3Aclosed+author%3AMaarcooC) <br>
 
 ## 🌐・ Socials:
 - [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marco._.colli/) 
