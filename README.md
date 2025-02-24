@@ -7,6 +7,10 @@
 ## 🤝・ Public contributions:
 - ![TheAlgorithms](https://github.com/TheAlgorithms.png?size=20) [TheAlgorithms PHP](https://github.com/TheAlgorithms/PHP/pulls?q=is%3Apr+is%3Aclosed+author%3AMaarcooC) <br>
 
+## 🌐・ Small projects:
+- 🐍 [Snake](https://github.com/MaarcooC/snake) <br>
+- 🔢 [Online Strange Calculator](https://github.com/MaarcooC/online_strange_calculator)
+
 ## 🌐・ Socials:
 - [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marco._.colli/) 
 - [![x](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://www.x.com/marco_colli_) 
