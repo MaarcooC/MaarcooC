@@ -8,6 +8,7 @@
 - ![TheAlgorithms](https://github.com/TheAlgorithms.png?size=20) [TheAlgorithms PHP](https://github.com/TheAlgorithms/PHP/pulls?q=is%3Apr+is%3Aclosed+author%3AMaarcooC) <br>
 
 ## 🌐・ Small projects:
+- 📊 [Finance SaaS](https://github.com/MaarcooC/finance_saas) <br>
 - 🐍 [Snake](https://github.com/MaarcooC/snake) <br>
 - 🔢 [Online Strange Calculator](https://github.com/MaarcooC/online_strange_calculator)
 
