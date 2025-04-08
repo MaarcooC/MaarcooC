@@ -9,6 +9,7 @@
 
 ## 🌐・ Small projects:
 - 📊 [Finance SaaS](https://github.com/MaarcooC/finance_saas) <br>
+- 📄 [Fia Documents Discord BOT](https://github.com/MaarcooC/fia-doc-discordbot) <br>
 - 🐍 [Snake](https://github.com/MaarcooC/snake) <br>
 - 🔢 [Online Strange Calculator](https://github.com/MaarcooC/online_strange_calculator)
 
