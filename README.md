@@ -1,6 +1,6 @@
 # 🌎・ Hello world!
 
-## 🧑・ About me:
+## 👨🏻‍💻・ About me:
 - 💻 Studying IT at school. <br>
 - 🚀 Passionate about IT, motorsport and space.
 
