@@ -11,7 +11,7 @@
 - 📊 [Finance SaaS](https://github.com/MaarcooC/finance_saas) <br>
 - 🔒 [Elliptic Curve Diffie Hellman](https://github.com/MaarcooC/ECDH) <br>
 - 💻 [Myshell](https://github.com/MaarcooC/myshell) <br>
-- 🌤️ [weatherWidget](https://https://github.com/MaarcooC/weatherWidget) <br>
+- 🌤️ [weatherWidget](https://github.com/MaarcooC/weatherWidget) <br>
 - 📄 [Fia Documents Discord BOT](https://github.com/MaarcooC/fia-doc-discordbot) <br>
 - 🐍 [Snake](https://github.com/MaarcooC/snake) <br>
 - 🔢 [Online Strange Calculator](https://github.com/MaarcooC/online_strange_calculator)
