@@ -21,6 +21,5 @@
 - [![x](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://www.x.com/marco_colli_) 
 
 ## 📊・ Stats:
-![](https://github-readme-stats.vercel.app/api?username=MaarcooC&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MaarcooC&theme=aura_dark) <br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MaarcooC&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MaarcooC&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
