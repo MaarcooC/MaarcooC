@@ -8,9 +8,9 @@
 - ![TheAlgorithms](https://github.com/TheAlgorithms.png?size=20) [TheAlgorithms PHP](https://github.com/TheAlgorithms/PHP/pulls?q=is%3Apr+is%3Aclosed+author%3AMaarcooC) <br>
 
 ## 🌐・ Small projects:
+- 💻 [Myshell](https://github.com/MaarcooC/myshell) <br>
 - 📊 [Finance SaaS](https://github.com/MaarcooC/finance_saas) <br>
 - 🔒 [Elliptic Curve Diffie Hellman](https://github.com/MaarcooC/ECDH) <br>
-- 💻 [Myshell](https://github.com/MaarcooC/myshell) <br>
 - 🌤️ [weatherWidget](https://github.com/MaarcooC/weatherWidget) <br>
 - 📄 [Fia Documents Discord BOT](https://github.com/MaarcooC/fia-doc-discordbot) <br>
 - 🐍 [Snake](https://github.com/MaarcooC/snake) <br>
