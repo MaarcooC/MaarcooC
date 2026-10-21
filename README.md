@@ -17,6 +17,7 @@
 - 🔢 [Online Strange Calculator](https://github.com/MaarcooC/online_strange_calculator)
 
 ## 🌐・ Socials:
+- [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://www.tiktok.com/@marcoontrack?_r=1&_t=ZN-9AjtJJ26mtq)
 - [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marco._.colli/) 
 - [![x](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://www.x.com/marco_colli_) 
 
